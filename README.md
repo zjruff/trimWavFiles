@@ -1,0 +1,2 @@
+# trimWavFiles
+A script to 
